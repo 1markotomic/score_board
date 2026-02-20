@@ -15,8 +15,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "",
-    "build": ""
+    "test": ""
   }
   
 }
