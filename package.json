@@ -13,8 +13,10 @@
   "license": "ISC",
   "author": "mt",
   "type": "commonjs",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  
 }
