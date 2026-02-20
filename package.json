@@ -16,7 +16,7 @@
   "main": "index.js",
   "scripts": {
     "test": "",
-    "build": "webpack --mode production"
+    "build": ""
   },
   
 }
